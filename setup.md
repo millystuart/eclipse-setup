@@ -32,6 +32,7 @@
    - CheckStyle (enforce code formatting/rules)
    - EGit (Git integration if Git through UI is preferred)
    - SonarLint (quality/security checks)
+   - MoreUnit (unit test helper)
    - JUnit-Tools (additional JUnit test support)
    - GitHub Copilot (AI assistance)
 
