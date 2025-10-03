@@ -20,7 +20,12 @@
 
 ### Check Java version
 1. **Window** > **Preferences** > **Java** > **Installed JREs**
-2. Check that you have the JDK you would like to use, and change default if necessary
+2. Check that you are using your desired JDK, if not then follow the following instructions:
+   1. Install desired JDK to your system
+   2. In **Installed JREs**, press **Add** and choose type **Standard VM**
+   3. For **JRE home**, press directory and locate the installed JDK. This is typically found at `/user/lib/jvm/{name-of-JDK}`
+   4. Press **Finish**
+   5. Check the added JDK (and if necessary, delete the old one) and **Apply and Close**
 
 ### Install plugins
 1. **Help** > **Eclipse Marketplace**
