@@ -26,6 +26,8 @@
    3. For **JRE home**, press directory and locate the installed JDK. This is typically found at `/user/lib/jvm/{name-of-JDK}`
    4. Press **Finish**
    5. Check the added JDK (and if necessary, delete the old one) and **Apply and Close**
+   
+   Note that if you install your own JDK, to ensure that you use it in a new project, select the option to **Use a project specific JRE**.
 
 ### Install plugins
 1. **Help** > **Eclipse Marketplace**
